@@ -1,0 +1,10 @@
+option('enable-binaries',
+  type : 'boolean',
+  value : true,
+  description : 'Enable binaries.',
+)
+option('enable-binary-tests',
+  type : 'boolean',
+  value : true,
+  description : 'Enable binary tests.',
+)
